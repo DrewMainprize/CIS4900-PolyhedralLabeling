@@ -17,7 +17,7 @@ public class DoubleFaces : MonoBehaviour
         
     }
 
-    // Code taken from:
+    // Source:
     // https://answers.unity.com/questions/280741/how-make-visible-the-back-face-of-a-mesh.html
 
     public void DoublicateFaces()
